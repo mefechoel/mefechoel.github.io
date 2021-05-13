@@ -1,6 +1,6 @@
 {
   "index.html": {
-    "file": "assets/index.256318ed.js",
+    "file": "assets/index.6a991136.js",
     "src": "index.html",
     "isEntry": true,
     "imports": [
@@ -15,7 +15,7 @@
       "src/routes/BAThesis/index.ts"
     ],
     "css": [
-      "assets/index.c616f89e.css"
+      "assets/index.3d4cc76b.css"
     ],
     "assets": [
       "assets/inter-var_3-18.subset.1d1d73e3.woff2"
@@ -25,7 +25,7 @@
     "file": "assets/vendor.a325d5f6.js"
   },
   "src/routes/Projects/index.ts": {
-    "file": "assets/index.55371ce5.js",
+    "file": "assets/index.7df96c37.js",
     "src": "src/routes/Projects/index.ts",
     "isDynamicEntry": true,
     "imports": [
@@ -54,7 +54,7 @@
       "_vendor.a325d5f6.js"
     ],
     "css": [
-      "assets/index.32ad6bd5.css"
+      "assets/index.ea3987f8.css"
     ]
   },
   "src/routes/Music/index.ts": {
@@ -99,7 +99,7 @@
     ]
   },
   "src/routes/BAThesis/index.ts": {
-    "file": "assets/index.91ebcfc4.js",
+    "file": "assets/index.10e80370.js",
     "src": "src/routes/BAThesis/index.ts",
     "isDynamicEntry": true,
     "imports": [
@@ -107,7 +107,7 @@
       "_BAThesis.bd599e16.js"
     ],
     "css": [
-      "assets/index.eb120d0e.css"
+      "assets/index.3d928709.css"
     ]
   }
 }
