@@ -1,0 +1,137 @@
+{
+  "index.html": {
+    "file": "assets/index.c77dd572.js",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_vendor.a325d5f6.js"
+    ],
+    "dynamicImports": [
+      "src/routes/Projects/index.ts",
+      "src/routes/Home/index.ts",
+      "src/routes/Music/index.ts",
+      "src/routes/Impressum/index.ts",
+      "src/routes/Datenschutz/index.ts",
+      "src/routes/BAThesis/index.ts",
+      "src/routes/SvelteNavigator/index.ts"
+    ],
+    "css": [
+      "assets/index.b87b1b6a.css"
+    ],
+    "assets": [
+      "assets/inter-var_3-18.subset.80ea87f8.woff2"
+    ]
+  },
+  "_vendor.a325d5f6.js": {
+    "file": "assets/vendor.a325d5f6.js"
+  },
+  "src/routes/Projects/index.ts": {
+    "file": "assets/index.d6896937.js",
+    "src": "src/routes/Projects/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.a325d5f6.js",
+      "index.html",
+      "_BAThesis.bd599e16.js",
+      "_SvelteNavigator.c6e7d8ce.js"
+    ],
+    "css": [
+      "assets/index.aad9166d.css"
+    ]
+  },
+  "_BAThesis.bd599e16.js": {
+    "file": "assets/BAThesis.bd599e16.js",
+    "imports": [
+      "_vendor.a325d5f6.js"
+    ],
+    "css": [
+      "assets/BAThesis.e24d2582.css"
+    ]
+  },
+  "_SvelteNavigator.c6e7d8ce.js": {
+    "file": "assets/SvelteNavigator.c6e7d8ce.js",
+    "imports": [
+      "_vendor.a325d5f6.js"
+    ],
+    "css": [
+      "assets/SvelteNavigator.3a99ee05.css"
+    ]
+  },
+  "src/routes/Home/index.ts": {
+    "file": "assets/index.44f6720b.js",
+    "src": "src/routes/Home/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.a325d5f6.js"
+    ],
+    "css": [
+      "assets/index.ea3987f8.css"
+    ]
+  },
+  "src/routes/Music/index.ts": {
+    "file": "assets/index.6dffc3cd.js",
+    "src": "src/routes/Music/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.a325d5f6.js"
+    ]
+  },
+  "src/routes/Impressum/index.ts": {
+    "file": "assets/index.4b54c3d2.js",
+    "src": "src/routes/Impressum/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.a325d5f6.js",
+      "_Email.c5b0947b.js"
+    ],
+    "css": [
+      "assets/index.c9e1080e.css"
+    ]
+  },
+  "_Email.c5b0947b.js": {
+    "file": "assets/Email.c5b0947b.js",
+    "imports": [
+      "_vendor.a325d5f6.js"
+    ],
+    "css": [
+      "assets/Email.dd646b40.css"
+    ]
+  },
+  "src/routes/Datenschutz/index.ts": {
+    "file": "assets/index.232fe2de.js",
+    "src": "src/routes/Datenschutz/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.a325d5f6.js",
+      "_Email.c5b0947b.js"
+    ],
+    "css": [
+      "assets/index.69c2f529.css"
+    ]
+  },
+  "src/routes/BAThesis/index.ts": {
+    "file": "assets/index.10e80370.js",
+    "src": "src/routes/BAThesis/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.a325d5f6.js",
+      "_BAThesis.bd599e16.js"
+    ],
+    "css": [
+      "assets/index.59c78da3.css"
+    ]
+  },
+  "src/routes/SvelteNavigator/index.ts": {
+    "file": "assets/index.449e5bfe.js",
+    "src": "src/routes/SvelteNavigator/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.a325d5f6.js",
+      "_SvelteNavigator.c6e7d8ce.js",
+      "index.html"
+    ],
+    "css": [
+      "assets/index.f8400d25.css"
+    ]
+  }
+}
