@@ -1,0 +1,298 @@
+{
+  "index.html": {
+    "file": "assets/index.d0984b5f.js",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_vendor.a325d5f6.js"
+    ],
+    "dynamicImports": [
+      "src/routes/Projects/index.ts",
+      "src/routes/Home/index.ts",
+      "src/routes/Music/index.ts",
+      "src/routes/Impressum/index.ts",
+      "src/routes/Datenschutz/index.ts",
+      "src/routes/BAThesis/index.ts",
+      "src/routes/SvelteNavigator/index.ts",
+      "src/routes/KochChef/index.ts",
+      "src/routes/HPStrelow/index.ts",
+      "src/routes/Portfolio/index.ts",
+      "src/routes/Remote/index.ts",
+      "src/routes/Pixelnetz/index.ts"
+    ],
+    "css": [
+      "assets/index.a636c84a.css"
+    ],
+    "assets": [
+      "assets/inter-var_3-18.subset.80ea87f8.woff2"
+    ]
+  },
+  "_vendor.a325d5f6.js": {
+    "file": "assets/vendor.a325d5f6.js"
+  },
+  "src/routes/Projects/index.ts": {
+    "file": "assets/index.142ec08f.js",
+    "src": "src/routes/Projects/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.a325d5f6.js",
+      "_GridPage.4449394b.js",
+      "_BAThesis.59c52462.js",
+      "_HPStrelow.a63a3c4b.js",
+      "_KochChef.045308ee.js",
+      "_Pixelnetz.7456f864.js",
+      "_Portfolio.7b9731de.js",
+      "_Remote.45995b48.js",
+      "_SvelteNavigator.16150659.js",
+      "index.html",
+      "_SvgWrapper.eae0c7d2.js"
+    ]
+  },
+  "_GridPage.4449394b.js": {
+    "file": "assets/GridPage.4449394b.js",
+    "imports": [
+      "_vendor.a325d5f6.js",
+      "index.html"
+    ],
+    "css": [
+      "assets/GridPage.665b1b45.css"
+    ]
+  },
+  "_BAThesis.59c52462.js": {
+    "file": "assets/BAThesis.59c52462.js",
+    "imports": [
+      "_vendor.a325d5f6.js"
+    ],
+    "css": [
+      "assets/BAThesis.313101a3.css"
+    ]
+  },
+  "_HPStrelow.a63a3c4b.js": {
+    "file": "assets/HPStrelow.a63a3c4b.js",
+    "imports": [
+      "_vendor.a325d5f6.js",
+      "_SvgWrapper.eae0c7d2.js"
+    ]
+  },
+  "_KochChef.045308ee.js": {
+    "file": "assets/KochChef.045308ee.js",
+    "imports": [
+      "_vendor.a325d5f6.js",
+      "_SvgWrapper.eae0c7d2.js"
+    ]
+  },
+  "_Pixelnetz.7456f864.js": {
+    "file": "assets/Pixelnetz.7456f864.js",
+    "imports": [
+      "_vendor.a325d5f6.js"
+    ],
+    "css": [
+      "assets/Pixelnetz.ea8fc00e.css"
+    ]
+  },
+  "_Portfolio.7b9731de.js": {
+    "file": "assets/Portfolio.7b9731de.js",
+    "imports": [
+      "_vendor.a325d5f6.js",
+      "_SvgWrapper.eae0c7d2.js"
+    ],
+    "css": [
+      "assets/Portfolio.33490104.css"
+    ]
+  },
+  "_Remote.45995b48.js": {
+    "file": "assets/Remote.45995b48.js",
+    "imports": [
+      "_vendor.a325d5f6.js"
+    ],
+    "css": [
+      "assets/Remote.5d591e8b.css"
+    ]
+  },
+  "_SvelteNavigator.16150659.js": {
+    "file": "assets/SvelteNavigator.16150659.js",
+    "imports": [
+      "_vendor.a325d5f6.js",
+      "_SvgWrapper.eae0c7d2.js"
+    ]
+  },
+  "_SvgWrapper.eae0c7d2.js": {
+    "file": "assets/SvgWrapper.eae0c7d2.js",
+    "imports": [
+      "_vendor.a325d5f6.js"
+    ],
+    "css": [
+      "assets/SvgWrapper.824dd2d4.css"
+    ]
+  },
+  "src/routes/Home/index.ts": {
+    "file": "assets/index.4570c80e.js",
+    "src": "src/routes/Home/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.a325d5f6.js",
+      "_TextContainer.26dd32e7.js"
+    ],
+    "css": [
+      "assets/index.8b27ed84.css"
+    ]
+  },
+  "_TextContainer.26dd32e7.js": {
+    "file": "assets/TextContainer.26dd32e7.js",
+    "imports": [
+      "_vendor.a325d5f6.js"
+    ],
+    "css": [
+      "assets/TextContainer.fe677299.css"
+    ]
+  },
+  "src/routes/Music/index.ts": {
+    "file": "assets/index.e4747f3e.js",
+    "src": "src/routes/Music/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.a325d5f6.js",
+      "_GridPage.4449394b.js",
+      "index.html"
+    ],
+    "css": [
+      "assets/index.06e9f702.css"
+    ]
+  },
+  "src/routes/Impressum/index.ts": {
+    "file": "assets/index.4b54c3d2.js",
+    "src": "src/routes/Impressum/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.a325d5f6.js",
+      "_Email.c5b0947b.js"
+    ],
+    "css": [
+      "assets/index.c9e1080e.css"
+    ]
+  },
+  "_Email.c5b0947b.js": {
+    "file": "assets/Email.c5b0947b.js",
+    "imports": [
+      "_vendor.a325d5f6.js"
+    ],
+    "css": [
+      "assets/Email.dd646b40.css"
+    ]
+  },
+  "src/routes/Datenschutz/index.ts": {
+    "file": "assets/index.232fe2de.js",
+    "src": "src/routes/Datenschutz/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.a325d5f6.js",
+      "_Email.c5b0947b.js"
+    ],
+    "css": [
+      "assets/index.69c2f529.css"
+    ]
+  },
+  "src/routes/BAThesis/index.ts": {
+    "file": "assets/index.0803d112.js",
+    "src": "src/routes/BAThesis/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.a325d5f6.js",
+      "_DetailsWrapper.e331fc28.js",
+      "_BAThesis.59c52462.js",
+      "_TextContainer.26dd32e7.js"
+    ],
+    "css": [
+      "assets/index.a99ed511.css"
+    ]
+  },
+  "_DetailsWrapper.e331fc28.js": {
+    "file": "assets/DetailsWrapper.e331fc28.js",
+    "imports": [
+      "_vendor.a325d5f6.js",
+      "_TextContainer.26dd32e7.js"
+    ],
+    "css": [
+      "assets/DetailsWrapper.e6c004d0.css"
+    ]
+  },
+  "src/routes/SvelteNavigator/index.ts": {
+    "file": "assets/index.3f8494bd.js",
+    "src": "src/routes/SvelteNavigator/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.a325d5f6.js",
+      "index.html",
+      "_DetailsWrapper.e331fc28.js",
+      "_SvelteNavigator.16150659.js",
+      "_TextContainer.26dd32e7.js",
+      "_SvgWrapper.eae0c7d2.js"
+    ]
+  },
+  "src/routes/KochChef/index.ts": {
+    "file": "assets/index.124633a0.js",
+    "src": "src/routes/KochChef/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.a325d5f6.js",
+      "_DetailsWrapper.e331fc28.js",
+      "_KochChef.045308ee.js",
+      "index.html",
+      "_TextContainer.26dd32e7.js",
+      "_SvgWrapper.eae0c7d2.js"
+    ]
+  },
+  "src/routes/HPStrelow/index.ts": {
+    "file": "assets/index.3e02bf3d.js",
+    "src": "src/routes/HPStrelow/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.a325d5f6.js",
+      "_DetailsWrapper.e331fc28.js",
+      "_HPStrelow.a63a3c4b.js",
+      "_TextContainer.26dd32e7.js",
+      "_SvgWrapper.eae0c7d2.js"
+    ]
+  },
+  "src/routes/Portfolio/index.ts": {
+    "file": "assets/index.3d322e54.js",
+    "src": "src/routes/Portfolio/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.a325d5f6.js",
+      "_DetailsWrapper.e331fc28.js",
+      "_Portfolio.7b9731de.js",
+      "index.html",
+      "_TextContainer.26dd32e7.js",
+      "_SvgWrapper.eae0c7d2.js"
+    ]
+  },
+  "src/routes/Remote/index.ts": {
+    "file": "assets/index.8ec3c29a.js",
+    "src": "src/routes/Remote/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.a325d5f6.js",
+      "_DetailsWrapper.e331fc28.js",
+      "_Remote.45995b48.js",
+      "_TextContainer.26dd32e7.js"
+    ],
+    "css": [
+      "assets/index.30e8092c.css"
+    ]
+  },
+  "src/routes/Pixelnetz/index.ts": {
+    "file": "assets/index.4fdf048e.js",
+    "src": "src/routes/Pixelnetz/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.a325d5f6.js",
+      "_DetailsWrapper.e331fc28.js",
+      "_Pixelnetz.7456f864.js",
+      "_TextContainer.26dd32e7.js"
+    ],
+    "css": [
+      "assets/index.b2c89abd.css"
+    ]
+  }
+}

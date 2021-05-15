@@ -1,0 +1,2 @@
+/*! Licenses of used libraries, fonts and other software can be found at /lib-licenses.txt */
+import{a as s,c as a}from"./vendor.a325d5f6.js";import{T as e}from"./TextContainer.26dd32e7.js";var c="shfQbq",l="s3yWU9";const m=({children:a,className:c=""})=>s(e,null,s("div",{className:c},a));m.Img=({children:e,className:c=""})=>s("div",{className:a(l,c)},e),m.Body=({children:e,className:l=""})=>s("p",{className:a(c,l)},e);export{m as D};
