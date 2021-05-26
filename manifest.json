@@ -1,0 +1,368 @@
+{
+  "index.html": {
+    "file": "assets/index.f1c89232.js",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_vendor.5164a3da.js"
+    ],
+    "dynamicImports": [
+      "src/routes/Projects/index.ts",
+      "src/routes/Home/index.ts",
+      "src/routes/Music/index.ts",
+      "src/routes/Impressum/index.ts",
+      "src/routes/Datenschutz/index.ts",
+      "src/routes/BAThesis/index.ts",
+      "src/routes/SvelteNavigator/index.ts",
+      "src/routes/RecipeApp/index.ts",
+      "src/routes/HPStrelow/index.ts",
+      "src/routes/Portfolio/index.ts",
+      "src/routes/Remote/index.ts",
+      "src/routes/Pixelnetz/index.ts",
+      "src/routes/NichtMehrEP/index.ts",
+      "src/routes/PragSingle/index.ts"
+    ],
+    "css": [
+      "assets/index.5146e2fa.css"
+    ],
+    "assets": [
+      "assets/inter-var_3-18.subset.80ea87f8.woff2"
+    ]
+  },
+  "_vendor.5164a3da.js": {
+    "file": "assets/vendor.5164a3da.js"
+  },
+  "src/routes/Projects/index.ts": {
+    "file": "assets/index.1a27458b.js",
+    "src": "src/routes/Projects/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.5164a3da.js",
+      "_GridPage.ce7c9e1b.js",
+      "_BAThesis.11b945d5.js",
+      "_HPStrelow.a050567d.js",
+      "_RecipeApp.4e00eb47.js",
+      "_Pixelnetz.488c6b14.js",
+      "_Portfolio.ecc75883.js",
+      "_Remote.66978065.js",
+      "_SvelteNavigator.b24baa30.js",
+      "index.html",
+      "_SvgWrapper.73f8c494.js"
+    ]
+  },
+  "_GridPage.ce7c9e1b.js": {
+    "file": "assets/GridPage.ce7c9e1b.js",
+    "imports": [
+      "_vendor.5164a3da.js",
+      "index.html"
+    ],
+    "css": [
+      "assets/GridPage.3f950000.css"
+    ]
+  },
+  "_BAThesis.11b945d5.js": {
+    "file": "assets/BAThesis.11b945d5.js",
+    "imports": [
+      "_vendor.5164a3da.js"
+    ],
+    "css": [
+      "assets/BAThesis.65bb6cbe.css"
+    ]
+  },
+  "_HPStrelow.a050567d.js": {
+    "file": "assets/HPStrelow.a050567d.js",
+    "imports": [
+      "_vendor.5164a3da.js",
+      "_SvgWrapper.73f8c494.js"
+    ]
+  },
+  "_RecipeApp.4e00eb47.js": {
+    "file": "assets/RecipeApp.4e00eb47.js",
+    "imports": [
+      "_vendor.5164a3da.js",
+      "_SvgWrapper.73f8c494.js"
+    ]
+  },
+  "_Pixelnetz.488c6b14.js": {
+    "file": "assets/Pixelnetz.488c6b14.js",
+    "imports": [
+      "_vendor.5164a3da.js"
+    ],
+    "css": [
+      "assets/Pixelnetz.d6d23a98.css"
+    ]
+  },
+  "_Portfolio.ecc75883.js": {
+    "file": "assets/Portfolio.ecc75883.js",
+    "imports": [
+      "_vendor.5164a3da.js",
+      "_SvgWrapper.73f8c494.js"
+    ],
+    "css": [
+      "assets/Portfolio.33490104.css"
+    ]
+  },
+  "_Remote.66978065.js": {
+    "file": "assets/Remote.66978065.js",
+    "imports": [
+      "_vendor.5164a3da.js"
+    ],
+    "css": [
+      "assets/Remote.5e0338be.css"
+    ]
+  },
+  "_SvelteNavigator.b24baa30.js": {
+    "file": "assets/SvelteNavigator.b24baa30.js",
+    "imports": [
+      "_vendor.5164a3da.js",
+      "_SvgWrapper.73f8c494.js"
+    ]
+  },
+  "_SvgWrapper.73f8c494.js": {
+    "file": "assets/SvgWrapper.73f8c494.js",
+    "imports": [
+      "_vendor.5164a3da.js"
+    ],
+    "css": [
+      "assets/SvgWrapper.cb732c85.css"
+    ]
+  },
+  "src/routes/Home/index.ts": {
+    "file": "assets/index.c2183e20.js",
+    "src": "src/routes/Home/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.5164a3da.js",
+      "_TextContainer.e94be0f5.js",
+      "_Img.ff85a7a6.js"
+    ],
+    "css": [
+      "assets/index.979c537f.css"
+    ]
+  },
+  "_TextContainer.e94be0f5.js": {
+    "file": "assets/TextContainer.e94be0f5.js",
+    "imports": [
+      "_vendor.5164a3da.js"
+    ],
+    "css": [
+      "assets/TextContainer.8b7fe261.css"
+    ]
+  },
+  "_Img.ff85a7a6.js": {
+    "file": "assets/Img.ff85a7a6.js",
+    "imports": [
+      "_vendor.5164a3da.js"
+    ]
+  },
+  "src/routes/Music/index.ts": {
+    "file": "assets/index.7b1bff28.js",
+    "src": "src/routes/Music/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.5164a3da.js",
+      "_GridPage.ce7c9e1b.js",
+      "_Prag.634bb600.js",
+      "_NichtMehr.59182c41.js",
+      "index.html",
+      "_Img.ff85a7a6.js"
+    ],
+    "css": [
+      "assets/index.cd72b55f.css"
+    ]
+  },
+  "_Prag.634bb600.js": {
+    "file": "assets/Prag.634bb600.js",
+    "imports": [
+      "_vendor.5164a3da.js",
+      "_Img.ff85a7a6.js"
+    ]
+  },
+  "_NichtMehr.59182c41.js": {
+    "file": "assets/NichtMehr.59182c41.js",
+    "imports": [
+      "_vendor.5164a3da.js",
+      "_Img.ff85a7a6.js"
+    ]
+  },
+  "src/routes/Impressum/index.ts": {
+    "file": "assets/index.28675dae.js",
+    "src": "src/routes/Impressum/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.5164a3da.js",
+      "_Email.e44adcc9.js"
+    ],
+    "css": [
+      "assets/index.c9e1080e.css"
+    ]
+  },
+  "_Email.e44adcc9.js": {
+    "file": "assets/Email.e44adcc9.js",
+    "imports": [
+      "_vendor.5164a3da.js"
+    ],
+    "css": [
+      "assets/Email.425fd700.css"
+    ]
+  },
+  "src/routes/Datenschutz/index.ts": {
+    "file": "assets/index.3e71c84b.js",
+    "src": "src/routes/Datenschutz/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.5164a3da.js",
+      "_Email.e44adcc9.js"
+    ],
+    "css": [
+      "assets/index.69c2f529.css"
+    ]
+  },
+  "src/routes/BAThesis/index.ts": {
+    "file": "assets/index.a91d228f.js",
+    "src": "src/routes/BAThesis/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.5164a3da.js",
+      "_DetailsWrapper.4dd1619a.js",
+      "_BAThesis.11b945d5.js",
+      "_TextContainer.e94be0f5.js"
+    ],
+    "css": [
+      "assets/index.7ea6c5dc.css"
+    ]
+  },
+  "_DetailsWrapper.4dd1619a.js": {
+    "file": "assets/DetailsWrapper.4dd1619a.js",
+    "imports": [
+      "_vendor.5164a3da.js",
+      "_TextContainer.e94be0f5.js"
+    ],
+    "css": [
+      "assets/DetailsWrapper.ca4e8a41.css"
+    ]
+  },
+  "src/routes/SvelteNavigator/index.ts": {
+    "file": "assets/index.5113013e.js",
+    "src": "src/routes/SvelteNavigator/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.5164a3da.js",
+      "index.html",
+      "_DetailsWrapper.4dd1619a.js",
+      "_SvelteNavigator.b24baa30.js",
+      "_TextContainer.e94be0f5.js",
+      "_SvgWrapper.73f8c494.js"
+    ]
+  },
+  "src/routes/RecipeApp/index.ts": {
+    "file": "assets/index.bb4d0293.js",
+    "src": "src/routes/RecipeApp/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.5164a3da.js",
+      "_DetailsWrapper.4dd1619a.js",
+      "_RecipeApp.4e00eb47.js",
+      "index.html",
+      "_ImgGrid.9c18c147.js",
+      "_Img.ff85a7a6.js",
+      "_TextContainer.e94be0f5.js",
+      "_SvgWrapper.73f8c494.js"
+    ]
+  },
+  "_ImgGrid.9c18c147.js": {
+    "file": "assets/ImgGrid.9c18c147.js",
+    "imports": [
+      "_vendor.5164a3da.js"
+    ],
+    "css": [
+      "assets/ImgGrid.eed7368c.css"
+    ]
+  },
+  "src/routes/HPStrelow/index.ts": {
+    "file": "assets/index.6b68b8d5.js",
+    "src": "src/routes/HPStrelow/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.5164a3da.js",
+      "_DetailsWrapper.4dd1619a.js",
+      "_HPStrelow.a050567d.js",
+      "_TextContainer.e94be0f5.js",
+      "_SvgWrapper.73f8c494.js"
+    ]
+  },
+  "src/routes/Portfolio/index.ts": {
+    "file": "assets/index.f1c32e16.js",
+    "src": "src/routes/Portfolio/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.5164a3da.js",
+      "_DetailsWrapper.4dd1619a.js",
+      "_Portfolio.ecc75883.js",
+      "index.html",
+      "_TextContainer.e94be0f5.js",
+      "_SvgWrapper.73f8c494.js"
+    ]
+  },
+  "src/routes/Remote/index.ts": {
+    "file": "assets/index.33f16034.js",
+    "src": "src/routes/Remote/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.5164a3da.js",
+      "_DetailsWrapper.4dd1619a.js",
+      "_Img.ff85a7a6.js",
+      "_Remote.66978065.js",
+      "_ImgGrid.9c18c147.js",
+      "_TextContainer.e94be0f5.js"
+    ],
+    "css": [
+      "assets/index.b27b9fa2.css"
+    ]
+  },
+  "src/routes/Pixelnetz/index.ts": {
+    "file": "assets/index.ef1b2a8b.js",
+    "src": "src/routes/Pixelnetz/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.5164a3da.js",
+      "_DetailsWrapper.4dd1619a.js",
+      "_Pixelnetz.488c6b14.js",
+      "_TextContainer.e94be0f5.js"
+    ],
+    "css": [
+      "assets/index.fe2a4e63.css"
+    ]
+  },
+  "src/routes/NichtMehrEP/index.ts": {
+    "file": "assets/index.6df6f727.js",
+    "src": "src/routes/NichtMehrEP/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.5164a3da.js",
+      "_MusicWrapper.97b2922c.js",
+      "_NichtMehr.59182c41.js",
+      "_Img.ff85a7a6.js"
+    ]
+  },
+  "_MusicWrapper.97b2922c.js": {
+    "file": "assets/MusicWrapper.97b2922c.js",
+    "imports": [
+      "_vendor.5164a3da.js"
+    ],
+    "css": [
+      "assets/MusicWrapper.b056d81e.css"
+    ]
+  },
+  "src/routes/PragSingle/index.ts": {
+    "file": "assets/index.66fe34b2.js",
+    "src": "src/routes/PragSingle/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.5164a3da.js",
+      "_MusicWrapper.97b2922c.js",
+      "_Prag.634bb600.js",
+      "_Img.ff85a7a6.js"
+    ]
+  }
+}
