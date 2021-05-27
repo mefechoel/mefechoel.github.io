@@ -1,6 +1,6 @@
 {
   "index.html": {
-    "file": "assets/index.b9917acc.js",
+    "file": "assets/index.88f83ea4.js",
     "src": "index.html",
     "isEntry": true,
     "imports": [
@@ -33,12 +33,12 @@
     "file": "assets/vendor.cc0fee81.js"
   },
   "src/routes/Projects/index.ts": {
-    "file": "assets/index.f573dc01.js",
+    "file": "assets/index.a98cead6.js",
     "src": "src/routes/Projects/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "_vendor.cc0fee81.js",
-      "_GridPage.9f6eb436.js",
+      "_GridPage.7f689768.js",
       "_BAThesis.36723c71.js",
       "_HPStrelow.0b16ad7c.js",
       "_RecipeApp.27e273ea.js",
@@ -50,8 +50,8 @@
       "_SvgWrapper.56703b80.js"
     ]
   },
-  "_GridPage.9f6eb436.js": {
-    "file": "assets/GridPage.9f6eb436.js",
+  "_GridPage.7f689768.js": {
+    "file": "assets/GridPage.7f689768.js",
     "imports": [
       "_vendor.cc0fee81.js",
       "index.html"
@@ -156,13 +156,13 @@
     ]
   },
   "src/routes/Music/index.ts": {
-    "file": "assets/index.7061bdfb.js",
+    "file": "assets/index.da3736b8.js",
     "src": "src/routes/Music/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "_vendor.cc0fee81.js",
-      "_GridPage.9f6eb436.js",
-      "_Prag.d8b979bf.js",
+      "_GridPage.7f689768.js",
+      "_Prag.914cf618.js",
       "_NichtMehr.125db291.js",
       "index.html",
       "_Img.c7a5f9ea.js"
@@ -171,8 +171,8 @@
       "assets/index.cd72b55f.css"
     ]
   },
-  "_Prag.d8b979bf.js": {
-    "file": "assets/Prag.d8b979bf.js",
+  "_Prag.914cf618.js": {
+    "file": "assets/Prag.914cf618.js",
     "imports": [
       "_vendor.cc0fee81.js",
       "_Img.c7a5f9ea.js"
@@ -243,7 +243,7 @@
     ]
   },
   "src/routes/SvelteNavigator/index.ts": {
-    "file": "assets/index.1a6e810f.js",
+    "file": "assets/index.ccd7c1a7.js",
     "src": "src/routes/SvelteNavigator/index.ts",
     "isDynamicEntry": true,
     "imports": [
@@ -256,7 +256,7 @@
     ]
   },
   "src/routes/RecipeApp/index.ts": {
-    "file": "assets/index.bdd8e9a7.js",
+    "file": "assets/index.56cc10a0.js",
     "src": "src/routes/RecipeApp/index.ts",
     "isDynamicEntry": true,
     "imports": [
@@ -292,7 +292,7 @@
     ]
   },
   "src/routes/Portfolio/index.ts": {
-    "file": "assets/index.df0704b9.js",
+    "file": "assets/index.cf10d914.js",
     "src": "src/routes/Portfolio/index.ts",
     "isDynamicEntry": true,
     "imports": [
@@ -355,13 +355,13 @@
     ]
   },
   "src/routes/PragSingle/index.ts": {
-    "file": "assets/index.982a8315.js",
+    "file": "assets/index.4c49b23c.js",
     "src": "src/routes/PragSingle/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "_vendor.cc0fee81.js",
       "_MusicWrapper.de9bca5c.js",
-      "_Prag.d8b979bf.js",
+      "_Prag.914cf618.js",
       "_Img.c7a5f9ea.js"
     ]
   }
