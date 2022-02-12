@@ -1,2 +1,0 @@
-/*! Licenses of used libraries, fonts and other software can be found at /lib-licenses.txt */
-import{a as V}from"./vendor.cc0fee81.js";import{S as o}from"./SvgWrapper.56703b80.js";const v=()=>V(o,null,V("svg",{xmlns:"http://www.w3.org/2000/svg",viewBox:"0 0 24 24",fill:"#41b883"},V("path",{fill:"none",d:"M0 0h24v24H0z"}),V("path",{d:"M9 6H8V4.65l1-.12V6zm0 6H8V7h1v5zM6 7h1v5H6V7zm0-2.12l1-.12V6H6V4.88zM22 3V2L5 4v8H2c0 3.69 2.47 6.86 6 8.25V22h8v-1.75c3.53-1.39 6-4.56 6-8.25H10V7h12V6H10V4.41L22 3z"})));export{v as R};

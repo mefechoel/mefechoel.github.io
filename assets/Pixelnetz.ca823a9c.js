@@ -1,0 +1,2 @@
+/*! Licenses of used libraries, fonts and other software can be found at /lib-licenses.txt */
+import{a as e,j as a}from"./index.64b7b175.js";const n="sdXSHE",o="sKHQOy",c="st1fHq",r="s6Z4Sh",i="sRrW9J";var s={wrapper:n,grid:o,phone:c,phoneBg:r,move:i};const d=()=>e("div",{className:s.wrapper,children:a("div",{className:s.grid,children:[e("div",{className:s.phone,children:e("div",{className:s.phoneBg})}),e("div",{className:s.phone,children:e("div",{className:s.phoneBg})}),e("div",{className:s.phone,children:e("div",{className:s.phoneBg})})]})});export{d as P};

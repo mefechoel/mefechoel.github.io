@@ -1,0 +1,2 @@
+/*! Licenses of used libraries, fonts and other software can be found at /lib-licenses.txt */
+.sMZbX1{--minCardWidth: 1fr;display:grid;gap:var(--innerSpacing);grid-auto-rows:auto;grid-template-columns:repeat(auto-fill,minmax(var(--minCardWidth),1fr));padding-top:calc(2 * var(--innerSpacing))}@media screen and (min-width: 20em){.sMZbX1{--minCardWidth: 16rem}}.sMZbX1 figcaption{padding:1em}.sMZbX1 figure{margin:0}
